@@ -1,0 +1,32 @@
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.exe
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.deps.json
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.runtimeconfig.json
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.runtimeconfig.dev.json
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.dll
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\ref\Caixa eletronico.dll
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.pdb
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.AssemblyInfo.cs
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.dll
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\ref\Caixa eletronico.dll
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.pdb
+C:\Users\alexs\source\repos\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.genruntimeconfig.cache
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.exe
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.deps.json
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.runtimeconfig.json
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.runtimeconfig.dev.json
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.dll
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\ref\Caixa eletronico.dll
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\bin\Debug\net5.0\Caixa eletronico.pdb
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.csproj.AssemblyReference.cache
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.AssemblyInfoInputs.cache
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.AssemblyInfo.cs
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.dll
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\ref\Caixa eletronico.dll
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.pdb
+C:\Users\alexs\Desktop\Caixa eletronico - Alex\Caixa eletronico\Caixa eletronico\obj\Debug\net5.0\Caixa eletronico.genruntimeconfig.cache
